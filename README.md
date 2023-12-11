@@ -41,4 +41,4 @@ Note: There are 11 of these data files, one for each year from 2010 through 2020
 ### grad_df.csv
 This data file is an aggregation of the 11 Arizona Department of Education data files. It includes a year field with the year of graduation and a grad_rate field with the four year graduation rate for each year.
 ## Special Considerations
-Processing the USGS_Wildland_Fire_Combined_Dataset.json from JSON to CSV takes a few hours, so budget time accordingly. Also, consider using bounding boxes if not enough data is given from the county method for requesting sensor data on AQI measurements. Lastly, make sure to filter the individual education data files to 'all' for Subgroup to avoiding repeating data in graduation rate calculations.
+Processing the USGS_Wildland_Fire_Combined_Dataset.json from JSON to CSV takes a few hours, so budget time accordingly. Also, consider using bounding boxes if not enough data is given from the county method for requesting sensor data on AQI measurements. Lastly, make sure to filter the individual education data files to 'all' for Subgroup to avoid repeating data in graduation rate calculations.
