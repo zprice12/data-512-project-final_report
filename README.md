@@ -27,7 +27,7 @@ https://link.springer.com/article/10.1007/s11069-021-05057-1
 Wen & Burke Paper -  
 https://www.nature.com/articles/s41893-022-00956-y  
 Washington State Department of Health Statement -  
-chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://doh.wa.gov/sites/default/files/legacy/Documents/4300/334-431-WIldfireSmokeSCHOOLSummary.pdf  
+https://doh.wa.gov/sites/default/files/legacy/Documents/4300/334-431-WIldfireSmokeSCHOOLSummary.pdf  
 ## Data Files
 ### USGS_Wildland_Fire_Combined_Dataset.json
 Note: Only a sample of this data, called Wildfire_short_sample.json, is in this repository due to the 25MB upload limit. The entire file is provided in the first link above.  
