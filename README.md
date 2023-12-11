@@ -1,6 +1,6 @@
 # Data 512 - Project - Final Report
 ## Project Goal
-The goal of this project is to investigate forest fires within 1250 miles of Kingman, Arizona from 1963-2020 by developing a smoke impact metric, predicting this metric through 2049, and creating informative visualizations.
+The goal of this project is to investigate forest fires within 1250 miles of Kingman, Arizona from 1963-2020 and their impact on education in the form of four year high school graduation rates in Mohave County, Arizona from 2010 through 2020. The project is split into four parts: Part 1 - Common Analysis loads and analyses the forest fire data, Part 2 - Extension Plan outlines the steps for relating the forest fire data to education, Part 3 - PechaKucha provides a PechaKucha style presentation of the work to that point, and Part 4 - Final Report provides a final report on the entire analysis. 
 ## Licenses and Links
 USGS Wildfire Data -  
 https://www.sciencebase.gov/catalog/item/61aa537dd34eb622f699df81  
@@ -20,6 +20,14 @@ US EPA FAQ -
 https://www.epa.gov/outdoor-air-quality-data/frequent-questions-about-airdata  
 FIPS Information -  
 https://www.census.gov/library/reference/code-lists/ansi.html
+Education Data -  
+https://www.azed.gov/accountability-research/data  
+Hamideh et al. Paper -  
+https://link.springer.com/article/10.1007/s11069-021-05057-1  
+Wen & Burke Paper -  
+https://www.nature.com/articles/s41893-022-00956-y  
+Washington State Department of Health Statement -  
+chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://doh.wa.gov/sites/default/files/legacy/Documents/4300/334-431-WIldfireSmokeSCHOOLSummary.pdf  
 ## Data Files
 ### USGS_Wildland_Fire_Combined_Dataset.json
 Note: Only a sample of this data, called Wildfire_short_sample.json, is in this repository due to the 25MB upload limit. The entire file is provided in the first link above.  
